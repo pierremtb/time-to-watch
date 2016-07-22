@@ -37,7 +37,7 @@
   },
   "scripts": {
     "build": "node_modules/gulp/bin/gulp.js",
-    "example": "npm run build; node dist/time-to-watch.js -t 19feb27020655b01a2502241663f99ad"
+    "example": "npm run build; node dist/time-to-watch.js -t myapitoken"
   },
   "author": "Pierre Jacquier",
   "license": "MIT"
